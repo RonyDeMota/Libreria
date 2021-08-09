@@ -1,0 +1,9 @@
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb

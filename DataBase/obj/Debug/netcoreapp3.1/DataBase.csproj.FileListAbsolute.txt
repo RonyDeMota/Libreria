@@ -1,0 +1,9 @@
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\bin\Debug\netcoreapp3.1\DataBase.deps.json
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\bin\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\bin\Debug\netcoreapp3.1\DataBase.pdb
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.AssemblyReference.cache
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfoInputs.cache
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\obj\Debug\netcoreapp3.1\DataBase.AssemblyInfo.cs
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\obj\Debug\netcoreapp3.1\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\obj\Debug\netcoreapp3.1\DataBase.dll
+C:\Users\Asus Rog Zephyrus\source\repos\LibreryApp\DataBase\obj\Debug\netcoreapp3.1\DataBase.pdb

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddAutores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddEditorialles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditAutores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditEditoriales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListarAutor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListarEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListarLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MantAutores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MantEditorial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MantLibros.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Princi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
